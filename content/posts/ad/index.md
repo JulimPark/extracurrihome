@@ -19,4 +19,4 @@ theme: "light"
 ![3등급 도달에 필요한 내용만 골라 컴팩트하게](images8.png)
 ![3등급 도달에 필요한 내용만 골라 컴팩트하게](images1.png)
 
-![커리큘럼 바로가기](https://julimpark.github.io/extracurrihome/posts/curri/prehigh1/)
+![커리큘럼 바로가기](/posts/curri/prehigh1/)
