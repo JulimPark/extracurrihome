@@ -1,15 +1,15 @@
 [home]
     other = "Home"
 [posts]
-    other = "Articles"
+    other = "Curriculum"
 [about]
     other = "About"
 [latestArticles]
-    other = "Articles"
+    other = "Curriculum"
 [moreArticles]
-    other = "More Articles"
+    other = "More Curriculum"
 [viewArchive]
-    other ="View Archive"
+    other ="View Curriculum"
 [socialMedia]
     other = "Social Media"
 [related]
