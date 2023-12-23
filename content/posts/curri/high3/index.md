@@ -7,7 +7,7 @@ cover: "main.png"
 tags: ["수능과목","수학1","수학2","미적분","기하","확률과통계","1등급올리기","과외"]
 theme: "light"
 ---
-![수능대비 커리큘럼](7.png)
+![수능대비 커리큘럼](77.png)
 
 ***
 ![LuxuryMath, HER:Ma+h](luxurymath.png)

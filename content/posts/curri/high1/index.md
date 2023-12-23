@@ -8,6 +8,6 @@ tags: ['수학',"예비고1",'베이스만들기','수학상','수학하','3등�
 theme: "light"
 ---
 
-![예비고1 커리큘럼](1.png)
+![예비고1 커리큘럼](11.png)
 ***
 ![LuxuryMath, HER:Ma+h](luxurymath.png)
