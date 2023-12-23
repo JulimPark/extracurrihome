@@ -1,6 +1,6 @@
 ---
 title: "온라인 수학 과외"
-date: 2023-12-19T04:06:32+09:00
+date: 2023-12-19T10:18:03+09:00
 description: "고교 내신/수능수학 과외 전문"
 author: "James"
 cover: "1.png"
