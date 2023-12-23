@@ -17,6 +17,6 @@ theme: "light"
 ![3등급 도달에 필요한 내용만 골라 컴팩트하게](images6.png)
 ![3등급 도달에 필요한 내용만 골라 컴팩트하게](images7.png)
 ![3등급 도달에 필요한 내용만 골라 컴팩트하게](images8.png)
-![3등급 도달에 필요한 내용만 골라 컴팩트하게](images82.png)
+![3등급 도달에 필요한 내용만 골라 컴팩트하게](82.png)
 
 [커리큘럼 바로가기](/extracurrihome/posts/curri/high1/)
