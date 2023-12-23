@@ -20,4 +20,4 @@ theme: "light"
 ![3등급이상 도달에 필요한 내용만 골라 컴팩트하게](8.png)
 
 
-[커리큘럼보기](/posts/curri/high1/)
+[커리큘럼보기](/extracurrihome/posts/curri/high1/)
