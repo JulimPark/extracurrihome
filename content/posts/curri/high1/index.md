@@ -9,3 +9,5 @@ theme: "light"
 ---
 
 ![예비고1 커리큘럼](1.png)
+***
+![LuxuryMath, HER:Ma+h](luxurymath.png)

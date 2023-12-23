@@ -8,3 +8,6 @@ tags: ["수능과목","수학1","수학2","미적분","기하","확률과통계"
 theme: "light"
 ---
 ![수능대비 커리큘럼](4.png)
+
+***
+![LuxuryMath, HER:Ma+h](luxurymath.png)

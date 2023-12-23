@@ -13,3 +13,5 @@ theme: "light"
 ![미적분 커리큘럼](5.png)
 ![기하 커리큘럼](6.png)
 ![확률과통계 커리큘럼](7.png)
+***
+![LuxuryMath, HER:Ma+h](luxurymath.png)
