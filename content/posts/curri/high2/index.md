@@ -15,4 +15,4 @@ theme: "light"
 ![기하 커리큘럼](55.png)
 ![확률과통계 커리큘럼](66.png)
 ***
-![LuxuryMath, HER:Ma+h](luxurymath.png)
+![LuxuryMath, HER:Ma+h](luxurymath1.png)

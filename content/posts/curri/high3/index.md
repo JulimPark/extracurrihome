@@ -10,4 +10,4 @@ theme: "light"
 ![수능대비 커리큘럼](77.png)
 
 ***
-![LuxuryMath, HER:Ma+h](luxurymath.png)
+![LuxuryMath, HER:Ma+h](luxurymath1.png)
