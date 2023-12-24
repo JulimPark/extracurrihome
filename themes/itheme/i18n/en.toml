@@ -1,15 +1,15 @@
 [home]
     other = "Home"
 [posts]
-    other = "Curriculums"
+    other = "교육과정"
 [about]
-    other = "About"
+    other = "DoBe"
 [latestArticles]
-    other = "Curriculums"
+    other = "최근 게시물"
 [moreArticles]
-    other = "More Curriculums"
+    other = "더보기"
 [viewArchive]
-    other ="View Curriculums"
+    other ="전체 게시물 보기"
 [socialMedia]
     other = "Social Media"
 [related]
